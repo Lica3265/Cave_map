@@ -120,7 +120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitSound: {fileID: 8300000, guid: b36157191a593b4409720192406e6ac2, type: 3}
-  destroySound: {fileID: 8300000, guid: ebea145c401ad39438b2f8a1bf64d65e, type: 3}
+  destroySound: {fileID: 8300000, guid: b36157191a593b4409720192406e6ac2, type: 3}
 --- !u!82 &5508724929066393146
 AudioSource:
   m_ObjectHideFlags: 0
